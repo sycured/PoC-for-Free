@@ -3,6 +3,21 @@ provider which permit to PoC (virtual machine, database…)
 
 🎉: Always-Free (unlimited time for compute/database/storage)
 
+## Artifact
+- [Cloudsmith](https://cloudsmith.io/package/plans/) 🎉
+- [JFrog Bintray](https://bintray.com/account/pricing?tab=account&type=pricing) 🎉
+- [Packagecloud](https://packagecloud.io/pricing) 🎉
+
+
+## CI/CD
+- [Bitrise](https://www.bitrise.io/pricing/teams) 🎉
+- [CircleCI](https://circleci.com/pricing/) 🎉
+- [GitLab](https://about.gitlab.com/pricing/) 🎉
+- [Semaphore](https://semaphoreci.com/pricing) 🎉
+- [Shippable](https://www.shippable.com/pricing.html) 🎉
+- [Travis-CI](https://travis-ci.org/) 🎉
+
+
 ## Cloud provider
 ### Infrastructure as a Service
 - [Alibaba Cloud](https://www.alibabacloud.com/campaign/free-trial)
@@ -16,10 +31,22 @@ provider which permit to PoC (virtual machine, database…)
 - [Heroku](https://www.heroku.com/)
 
 
-## Artifact
-- [Cloudsmith](https://cloudsmith.io/package/plans/) 🎉
-- [JFrog Bintray](https://bintray.com/account/pricing?tab=account&type=pricing) 🎉
-- [Packagecloud](https://packagecloud.io/pricing) 🎉
+## Container Registry
+- [Canister](https://canister.io/) 🎉
+- [Docker Hub](https://hub.docker.com/pricing) 🎉
+- [Quay](https://quay.io/plans/) 🎉
+
+
+## Crash and Exception Handling
+- [Sentry](https://sentry.io/pricing/) 🎉
+
+
+## CDN/DDOS/Free Domain Name
+- [Cdnjs](https://cdnjs.com/) 🎉
+- [Cloudflare](https://www.cloudflare.com/plans/) 🎉
+- [Freedns by Afraid](https://freedns.afraid.org/) 🎉
+- [Freenom](https://www.freenom.com/fr/freeandpaiddomains.html) 🎉
+- [Hurricane Electric Free DNS](https://dns.he.net/) 🎉
 
 
 ## Database
@@ -34,6 +61,10 @@ provider which permit to PoC (virtual machine, database…)
 ### MySQL
 - [Scalingo](https://scalingo.com/databases/mysql) 🎉
 
+### Other
+- [Airtable](https://airtable.com/pricing) 🎉
+- [Fauna](https://fauna.com/pricing) 🎉
+
 ### PostgreSQL
 - [ElephantSQL](https://www.elephantsql.com/plans.html) 🎉
 - [Heroku](https://www.heroku.com/) 🎉
@@ -42,6 +73,12 @@ provider which permit to PoC (virtual machine, database…)
 ### Redis
 - [Heroku](https://www.heroku.com/) 🎉
 - [Scalingo](https://scalingo.com/databases/redis) 🎉
+
+
+## Issue Tracking and Project Management
+- [Asana](https://asana.com/fr/pricing) 🎉
+- [Taiga](https://taiga.io/pricing) 🎉
+- [Trello](https://trello.com/pricing) 🎉
 
 
 ## Search Engine
@@ -57,3 +94,9 @@ provider which permit to PoC (virtual machine, database…)
 - [Bitbucket](https://bitbucket.org/product/pricing) 🎉
 - [GitHub](https://github.com/pricing) 🎉
 - [GitLab](https://about.gitlab.com/pricing/) 🎉
+
+
+## Web Hosting
+- [Netlify](https://www.netlify.com/pricing/) 🎉
+- [OpeNode](https://www.openode.io/pricing) 🎉
+- [Surge](https://surge.sh/pricing) 🎉
