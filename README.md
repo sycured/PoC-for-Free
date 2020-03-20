@@ -14,7 +14,6 @@ provider which permit to PoC (virtual machine, database…)
 
 ### Platform as a Service
 - [Heroku](https://www.heroku.com/)
-- [Scalingo](https://scalingo.com/databases/postgresql)
 
 
 ## Database
