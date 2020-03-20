@@ -16,6 +16,12 @@ provider which permit to PoC (virtual machine, database…)
 - [Heroku](https://www.heroku.com/)
 
 
+## Artifact
+- [Cloudsmith](https://cloudsmith.io/package/plans/) 🎉
+- [JFrog Bintray](https://bintray.com/account/pricing?tab=account&type=pricing) 🎉
+- [Packagecloud](https://packagecloud.io/pricing) 🎉
+
+
 ## Database
 ### InfluxDB
 - [Corlysis](https://corlysis.com/) 🎉
@@ -37,6 +43,7 @@ provider which permit to PoC (virtual machine, database…)
 - [Heroku](https://www.heroku.com/) 🎉
 - [Scalingo](https://scalingo.com/databases/redis) 🎉
 
+
 ## Search Engine
 ### ElasticSearch
 - [Bonsai](https://bonsai.io/pricing) 🎉
@@ -44,3 +51,9 @@ provider which permit to PoC (virtual machine, database…)
 
 ### Solr
 - [Opensolr](https://opensolr.com/pricing)
+
+
+## VCS hosting
+- [Bitbucket](https://bitbucket.org/product/pricing) 🎉
+- [GitHub](https://github.com/pricing) 🎉
+- [GitLab](https://about.gitlab.com/pricing/) 🎉
