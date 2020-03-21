@@ -12,6 +12,7 @@ provider which permit to PoC (virtual machine, database…)
 ## CI/CD
 - [Bitrise](https://www.bitrise.io/pricing/teams) 🎉
 - [CircleCI](https://circleci.com/pricing/) 🎉
+- [GitHub Actions](https://github.com/features/actions) 🎉
 - [GitLab](https://about.gitlab.com/pricing/) 🎉
 - [Semaphore](https://semaphoreci.com/pricing) 🎉
 - [Shippable](https://www.shippable.com/pricing.html) 🎉
@@ -77,6 +78,7 @@ provider which permit to PoC (virtual machine, database…)
 
 ## Issue Tracking and Project Management
 - [Asana](https://asana.com/fr/pricing) 🎉
+- [Jira](https://www.atlassian.com/software/jira/pricing) 🎉
 - [Taiga](https://taiga.io/pricing) 🎉
 - [Trello](https://trello.com/pricing) 🎉
 
