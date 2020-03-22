@@ -51,6 +51,9 @@ provider which permit to PoC (virtual machine, database…)
 
 
 ## Database
+### Cassandra
+- [DataStax Astra](https://astra.datastax.com) 🎉
+
 ### InfluxDB
 - [Corlysis](https://corlysis.com/) 🎉
 - [InfluxData](https://www.influxdata.com/influxdb-cloud-pricing/) 🎉
