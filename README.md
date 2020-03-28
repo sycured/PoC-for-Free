@@ -105,3 +105,4 @@ provider which permit to PoC (virtual machine, database…)
 - [Netlify](https://www.netlify.com/pricing/) 🎉
 - [OpeNode](https://www.openode.io/pricing) 🎉
 - [Surge](https://surge.sh/pricing) 🎉
+- [Zeit](https://zeit.co/pricing) 🎉
