@@ -60,6 +60,7 @@ provider which permit to PoC (virtual machine, database…)
 - [Scalingo](https://scalingo.com/databases/influxdb) 🎉
 
 ### MongoDB
+- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) 🎉
 - [Scalingo](https://scalingo.com/databases/mongodb) 🎉
 
 ### MySQL
@@ -68,6 +69,7 @@ provider which permit to PoC (virtual machine, database…)
 ### Other
 - [Airtable](https://airtable.com/pricing) 🎉
 - [Fauna](https://fauna.com/pricing) 🎉
+- [8base](https://www.8base.com/pricing) 🎉
 
 ### PostgreSQL
 - [ElephantSQL](https://www.elephantsql.com/plans.html) 🎉
